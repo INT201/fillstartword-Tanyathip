@@ -15,7 +15,7 @@ function fillStartWord(startWord, word) {
       return word
   }
   else  {
-      console.log(word=startWord+word)
+      // console.log(word=startWord+word)
       return word=startWord+word
 
   }    
